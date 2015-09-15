@@ -1,4 +1,5 @@
 MiniInbox = ReactMeteor.createClass({
+  displayName: 'MiniInbox',
   templateName: 'MiniInbox',
 
   startMeteorSubscriptions: function () {
